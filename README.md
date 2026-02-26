@@ -38,7 +38,7 @@ Embedded ACC system using XM125 radar and FreeRTOS
 
 ---
 
-### ⏰ RTOS Digital Alarm Clock
+### ⏰ RTOS Based Digital Alarm Clock
 Multi-state real-time system using S7G2  
 🔗 [View Project](https://github.com/Piyushsurani316/Digital-Alarm-Clock)
 
