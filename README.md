@@ -11,11 +11,23 @@
 📡 Interested in IoT, RTOS, and Automotive Systems  
 
 ## Skills
-- C Programming
-- Embedded C
-- STM32 / Arduino
-- FreeRTOS
+- C Programming for Embedded System
+- STM32Cubeide / Plateform IO (VS Code) / Arduino Ide
+- Direct Hardware Access using Registor 
+- STM32 / Arduino / ESP32
+- FreeRTOS / Azure RTOS
+- Communication of Two Micro Controller using I2c
 - I2C / SPI / UART
+- LCD
+- SD Card (SPI)
+- PWM Use
+- Sensor Connection (I2c)
+- Mqtt Protocol (HiveMQ)
+- Local and Remote Network Home Automation
+- Mit App Inventor
+- Radar Module (Sparkfun A121-Xm125)
+- Soldering
+- 
   
 
 ## Projects
