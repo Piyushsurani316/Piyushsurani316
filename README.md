@@ -3,10 +3,12 @@
 ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 # Hi, I'm Piyush 👋
 ![C](https://img.shields.io/badge/C-Programming-blue)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visualstudiocode)
 ![STM32](https://img.shields.io/badge/STM32-Embedded-green)
 ![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-orange)
 ![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-teal?logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-WiFi%20MCU-red?logo=espressif)
+![STM32CubeIDE](https://img.shields.io/badge/IDE-STM32CubeIDE-blue?logo=stmicroelectronics)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visualstudiocode)
 
 🎓 MSc Electronics & IT Student (USW, Cardiff,U.K.)   
 🔧 Learning Direct Register Based Programming on Stm32
