@@ -21,13 +21,16 @@
 - LCD
 - SD Card (SPI)
 - PWM Use
+- RFID (SPI)
+- IR Module
+- Ultrasonic Sensor
 - Sensor Connection (I2c)
 - Mqtt Protocol (HiveMQ)
 - Local and Remote Network Home Automation
 - Mit App Inventor
 - Radar Module (Sparkfun A121-Xm125)
 - Soldering
-- 
+  
   
 
 ## Projects
