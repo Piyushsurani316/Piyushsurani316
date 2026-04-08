@@ -30,6 +30,7 @@
 - Mit App Inventor
 - Radar Module (Sparkfun A121-Xm125)
 - Soldering
+- Blutooth Module (HC-05)
   
   
 
